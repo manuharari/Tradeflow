@@ -1,0 +1,5 @@
+{
+  "name": "TradeFlow Admin",
+  "description": "Un panel de administración mayorista integral que presenta gestión de inventario con cálculo de márgenes en tiempo real, CRM y un generador de presentaciones de ventas impulsado por IA.",
+  "requestFramePermissions": []
+}
